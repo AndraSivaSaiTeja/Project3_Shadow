@@ -1,1 +1,1 @@
-# Project3_Shadow
+# Project3_Shadow_Detection_for_text_images
